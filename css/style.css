@@ -231,7 +231,7 @@ a:hover {
 }
 @media (prefers-color-scheme:dark) {
 	:root.theme-auto body {
-	background-color:#121212;
+	background-color:#070d0d;
 	color:#ffffff;
 }
 :root.theme-auto :focus-visible {
